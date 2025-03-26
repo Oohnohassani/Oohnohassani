@@ -32,15 +32,6 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-# 📊 GitHub Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=HassaniDev&theme=dark&hide_border=false)<br/>
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=HassaniDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</br>
 
 P.S. Feel free to reach out via my socials under my profile if you need anything! 😊
 
